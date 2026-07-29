@@ -4,9 +4,9 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[linkedin](https://www.linkedin.com/in/YOUR-HANDLE/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/vikranth-t-32) &nbsp;·&nbsp;
 [github](https://github.com/VikranthMaster) &nbsp;·&nbsp;
-[email](mailto:you@example.com)
+[email](mailto:vikrantht32@gmail.com)
 
 </div>
 
